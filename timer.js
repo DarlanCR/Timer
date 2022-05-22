@@ -25,6 +25,7 @@ window.onload = function () {
         clearInterval(interval);
         tens = "00";
         seconds = "00";
+        minutes = "00";
 
         appendSeconds.innerHTML = seconds;
         appendTens.innerHTML = tens;
